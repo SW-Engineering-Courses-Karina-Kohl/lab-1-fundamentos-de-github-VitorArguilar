@@ -5,5 +5,6 @@ editing intro.txt
 Edição 2.
 
 modifying feature-branch
+Edição #3
 
 modifying feature-branch 2

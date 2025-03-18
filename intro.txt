@@ -2,7 +2,9 @@ Esta é a versão inicial do arquivo.
 É ele que você vai editar como exercício do Lab
 
 editing intro.txt
+Edição 2.
 
 modifying feature-branch
+Edição #3
 
 modifying feature-branch 2
